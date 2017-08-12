@@ -1,0 +1,11 @@
+c:\users\mukhe\documents\visual studio 2017\Projects\Revotron CLE 1.0\Revotron CLE 1.0\bin\Debug\Revotron CLE 1.0.exe.config
+c:\users\mukhe\documents\visual studio 2017\Projects\Revotron CLE 1.0\Revotron CLE 1.0\bin\Debug\Revotron CLE 1.0.exe
+c:\users\mukhe\documents\visual studio 2017\Projects\Revotron CLE 1.0\Revotron CLE 1.0\bin\Debug\Revotron CLE 1.0.pdb
+c:\users\mukhe\documents\visual studio 2017\Projects\Revotron CLE 1.0\Revotron CLE 1.0\bin\Debug\Revotron CLE 1.0.xml
+c:\users\mukhe\documents\visual studio 2017\Projects\Revotron CLE 1.0\Revotron CLE 1.0\obj\Debug\Revotron CLE 1.0.vbprojResolveAssemblyReference.cache
+c:\users\mukhe\documents\visual studio 2017\Projects\Revotron CLE 1.0\Revotron CLE 1.0\obj\Debug\Revotron_CLE_1._0.Resources.resources
+c:\users\mukhe\documents\visual studio 2017\Projects\Revotron CLE 1.0\Revotron CLE 1.0\obj\Debug\Revotron CLE 1.0.vbproj.GenerateResource.Cache
+c:\users\mukhe\documents\visual studio 2017\Projects\Revotron CLE 1.0\Revotron CLE 1.0\obj\Debug\Revotron CLE 1.0.exe
+c:\users\mukhe\documents\visual studio 2017\Projects\Revotron CLE 1.0\Revotron CLE 1.0\obj\Debug\Revotron CLE 1.0.xml
+c:\users\mukhe\documents\visual studio 2017\Projects\Revotron CLE 1.0\Revotron CLE 1.0\obj\Debug\Revotron CLE 1.0.pdb
+C:\Users\mukhe\documents\visual studio 2017\Projects\Revotron CLE 1.0\Revotron CLE 1.0\bin\Debug\Winsock2005DLL.dll
